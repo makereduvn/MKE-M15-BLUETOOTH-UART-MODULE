@@ -31,6 +31,7 @@ Mạch kết nối MKE-M15 Bluetooth UART Module hỗ trợ điện áp điều 
 
 ## Bộ tập lệnh AT Commands
 Nếu muốn thay đổi các thiết lập mặc định (thường không cần thiết), bạn có thể sử dụng bộ tập lệnh cấu hình AT Commands để cấu hình lại cho Mạch thu phát MKE-M15 Bluetooth 3.0 SPP / BLE 4.2 Dual Mode module, tuy nhiên việc này cần sử dụng thêm mạch chuyển USB-UART hoặc lập trình qua Arduino, xin lưu ý thiết lập đúng **Baudrate Default: 9600, N, 8, 1** và sau các lệnh **AT** cần thêm **\r\n**:
+![MKE-M15 Bluetooth](/extras/MKE-M15_0.jpg)
 
 ## Các chân tín hiệu
 <table><thead>
@@ -86,3 +87,4 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M15 Bluetooth](/extras/MKE-M15_2.png)
 ![MKE-M15 Bluetooth](/extras/MKE-M15_3.png)
+
