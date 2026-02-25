@@ -7,7 +7,7 @@ MKE-M15 Bluetooth UART Module là mạch kết nối không dây sử dụng gia
 
 Mạch kết nối MKE-M15 Bluetooth UART Module sử dụng chuẩn giao tiếp UART quen thuộc và hỗ trợ tập lệnh AT Commands, giúp người dùng dễ dàng cấu hình, kết nối và tích hợp vào hệ thống. Sản phẩm phù hợp cho các ứng dụng điều khiển từ xa, giám sát, truyền dữ liệu không dây, mô hình robot, dự án STEM và đồ án học tập.
 
-Mạch kết nối MKE-M15 Bluetooth UART Module hỗ trợ điện áp điều khiển 3.3V và 5VDC, cho phép kết nối trực tiếp và an toàn với các bo mạch điều khiển phổ biến như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 4P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình lắp đặt và sử dụng.
+Mạch kết nối MKE-M15 Bluetooth UART Module hỗ trợ điện áp giao tiếp 3.3V và 5VDC, cho phép kết nối trực tiếp và an toàn với các bo mạch điều khiển phổ biến như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 4P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình lắp đặt và sử dụng.
 
 ## Thông số kỹ thuật
 - Điện áp hoạt động: 5VDC
@@ -62,7 +62,7 @@ Nếu muốn thay đổi các thiết lập mặc định (thường không cầ
 ## Hướng dẫn sử dụng
 ### Hướng dẫn kết nối
 - Cấp nguồn 5VDC cho mạch qua hai chân GND và 5V.
-- Kết nối chân RX của Module với chân TX xủa mạch điều khiển.
+- Kết nối chân RX của Module với chân TX của mạch điều khiển.
 - Kết nối chân TX của Module với chân RX của mạch điều khiển.
 
 ### Hướng dẫn sử dụng với Arduino Uno / Vietduino Uno / ESP32
@@ -87,4 +87,5 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M15 Bluetooth](/extras/MKE-M15_2.png)
 ![MKE-M15 Bluetooth](/extras/MKE-M15_3.png)
+
 
